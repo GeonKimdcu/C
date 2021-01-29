@@ -1,0 +1,8 @@
+﻿1>------ 빌드 시작: 프로젝트: Chapter08, 구성: Debug Win32 ------
+1>ex8_1.cpp
+1>main.cpp
+1>c:\users\user\source\repos\geonkimdcu\c-programming\chapter08\chapter08\chapter08\main.cpp(5): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+1>코드를 생성하고 있습니다...
+1>Chapter08.vcxproj -> C:\Users\user\source\repos\GeonKimdcu\C-programming\Chapter08\Chapter08\Debug\Chapter08.exe
+1>"Chapter08.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 성공 1, 실패 0, 최신 0, 생략 0 ==========
